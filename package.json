@@ -1,0 +1,19 @@
+{
+  "name": "nodechatapp",
+  "version": "1.0.0",
+  "description": "A Chat Application Built with Node, Express , MongoDB and Sockets.io",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GuptaWeber/chatapp.git"
+  },
+  "author": "Gupta Weber",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GuptaWeber/chatapp/issues"
+  },
+  "homepage": "https://github.com/GuptaWeber/chatapp#readme"
+}
